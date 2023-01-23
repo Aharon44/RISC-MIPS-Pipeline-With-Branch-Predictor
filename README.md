@@ -12,3 +12,5 @@ Dynamic Branch Prediction Using Machine Learning ECS-201A Fall 2005 Yu Wang and 
 
 [Dynamic Branch Prediction Using Machine Learning .pdf](https://github.com/Aharon44/RISC-MIPS-Pipeline-With-Branch-Predictor/files/10478272/Dynamic.Branch.Prediction.Using.Machine.Learning.pdf)
 
+
+![image](https://user-images.githubusercontent.com/102623417/214009913-ab6931d4-d6fd-4f9b-8aad-81ef46240bac.png)
